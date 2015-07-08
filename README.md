@@ -12,7 +12,7 @@ Usage
 
         <link rel="stylesheet" href="long-dev/css/bootstrap.min.css" />  
         <link rel="stylesheet" href="long-dev/css/main.css" />  
-4) Get your browser to [localhost:8080/homes/long-dev/](localhost:8080/homes/long-dev/)
+4) Get your browser to [localhost:8080/homes/long-dev/](localhost:8080/homes/long-dev/)  
 
 
 ## Dev history
